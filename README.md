@@ -193,7 +193,7 @@ Comprehensive guide for Docker security hardening, multi-stage builds, and produ
 
 **Tech Stack:** Docker, Security, CI/CD  
 **Features:** Multi-stage builds, Trivy scanning, image optimization  
-[View Repository →]([https://github.com/DjDinesh1234/docker-devops-best-practices](https://github.com/DjDinesh1234/Docker_Best_Practices_ProdEnv))
+[View Repository →](https://github.com/DjDinesh1234/Docker_Best_Practices_ProdEnv)
 
 ---
 
