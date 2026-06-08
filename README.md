@@ -7,7 +7,7 @@
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail&logoColor=white)](mailto:dinesh.kumar2442000@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-+91%209652540740-green?style=flat&logo=phone&logoColor=white)](tel:+919652540740)
 
-### 🚀 **DevOps Engineer | AWS & Azure Cloud | CI/CD, Terraform, Kubernetes | Building Scalable Infrastructure**
+### 🚀 **DevOps Engineer | AWS Cloud | CI/CD, Terraform, Kubernetes | Building Scalable Infrastructure**
 
 ---
 
@@ -15,7 +15,7 @@
 
 ## 👨‍💼 About Me
 
-I'm a passionate **DevOps Engineer** with **4+ years of experience** designing, automating, and managing **scalable cloud infrastructure** on AWS and Azure. I specialize in building robust, automated systems that enable teams to ship faster and more reliably.
+I'm a passionate **DevOps Engineer** with **4+ years of experience** designing, automating, and managing **scalable cloud infrastructure** on AWS Cloud. I specialize in building robust, automated systems that enable teams to ship faster and more reliably.
 
 **Currently:** Analyst 1, Infrastructure Services @ **DXC Technology** 📍 Bengaluru, India  
 **Career Goal:** Senior DevOps Engineer / SRE / Cloud Architect  
@@ -34,10 +34,8 @@ I focus on:
 
 ### ☁️ **Cloud Platforms**
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
 
-**Services:** EC2, RDS, S3, Lambda, VPC, IAM, ECS, EKS, CloudWatch, SNS, SQS, EventBridge, Auto Scaling Groups, Secrets Manager
+**Services:** EC2, RDS, S3, Lambda, VPC, IAM, ECS, EKS, CloudWatch, SNS, SQS, Auto Scaling Groups, Secrets Manager
 
 ### 🔧 **Infrastructure as Code (IaC)**
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat&logo=terraform&logoColor=white)
@@ -202,7 +200,7 @@ Production-grade Jenkins pipeline templates with automated code quality checks a
 
 **Tech Stack:** Jenkins, Kubernetes, SonarQube  
 **Features:** Multi-stage pipelines, security scanning, ArgoCD integration  
-[View Repository →](https://github.com/DjDinesh1234/jenkins-cicd-pipeline-templates)
+[View Repository →](https://github.com/DjDinesh1234/Jenkins_CICD_Pipeline_Templates)
 
 ---
 
@@ -211,7 +209,7 @@ Production-ready Helm charts for microservices, databases, and monitoring stacks
 
 **Tech Stack:** Kubernetes, Helm, Kustomize  
 **Features:** High availability, autoscaling, resource management  
-[View Repository →](https://github.com/DjDinesh1234/k8s-helm-charts-library)
+[View Repository →](https://github.com/DjDinesh1234/Kubernetes-Helm-Charts-Library)
 
 ---
 
@@ -220,7 +218,7 @@ Complete monitoring solution with Prometheus, Grafana, and AlertManager.
 
 **Tech Stack:** Prometheus, Grafana, AlertManager  
 **Features:** Real-time dashboards, alert rules, data retention  
-[View Repository →](https://github.com/DjDinesh1234/prometheus-grafana-monitoring-stack)
+[View Repository →](https://github.com/DjDinesh1234/Prometheus-Grafana-Monitoring-Stack)
 
 ---
 
